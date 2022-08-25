@@ -1,3 +1,3 @@
 # Python_learning
 
-Learning python and scripting for machine learning.
+Learning data analysis and machine learning in python.
