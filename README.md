@@ -6,4 +6,8 @@
 Latest Release:
 * Github:![Github Release](https://img.shields.io/badge/release-v1-blue)
 
- Data analysis and machine learning in Python for predicting mutation rate in SARS-CoV-2 virus.
+Data analysis and machine learning in Python for predicting mutation rate in SARS-CoV-2 virus.
+
+Data Cleanup             |  Evaluating Loss
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/snRNAseq/blob/main/PTN.png)  |  ![](https://github.com/hasanwraeth/snRNAseq/blob/main/FGF.png)
