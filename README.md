@@ -12,6 +12,10 @@ Data Cleanup             |  Evaluating Loss
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/cleanup.jpg)  |  ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/loss.jpg)
 
-Data Cleanup             |  Evaluating Loss
-:-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/Machine_Learning/blob/main/cases.png)  |  ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/ARIMA_pred.png)
+CVOID cases             |
+:-------------------------:|
+![](https://github.com/hasanwraeth/Machine_Learning/blob/main/cases.png) 
+
+ARIMA case prediction            |
+:-------------------------:|
+![](https://github.com/hasanwraeth/Machine_Learning/blob/main/ARIMA_pred.png)
