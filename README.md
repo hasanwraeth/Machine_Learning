@@ -11,3 +11,7 @@ Data analysis and machine learning in Python for predicting mutation rate in SAR
 Data Cleanup             |  Evaluating Loss
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/cleanup.jpg)  |  ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/loss.jpg)
+
+Data Cleanup             |  Evaluating Loss
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/Machine_Learning/blob/main/cases.jpg)  |  ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/ARIMA_pred.jpg)
