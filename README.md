@@ -12,10 +12,11 @@ Data Cleanup             |  Evaluating Loss
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/cleanup.jpg)  |  ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/loss.jpg)
 
-CVOID cases             |
-:-------------------------:|
+CVOID cases             
+:-------------------------:
 ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/cases.png) 
 
-ARIMA case prediction            |
-:-------------------------:|
-![](https://github.com/hasanwraeth/Machine_Learning/blob/main/ARIMA_pred.png)
+ARIMA case prediction            | Simulation of Typhoid incidence
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/Machine_Learning/blob/main/ARIMA_pred.png)|  ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/typhi.png)
+
