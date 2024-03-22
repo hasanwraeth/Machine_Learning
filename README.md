@@ -14,4 +14,4 @@ Data Cleanup             |  Evaluating Loss
 
 Data Cleanup             |  Evaluating Loss
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/Machine_Learning/blob/main/cases.jpg)  |  ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/ARIMA_pred.jpg)
+![](https://github.com/hasanwraeth/Machine_Learning/blob/main/cases.png)  |  ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/ARIMA_pred.png)
