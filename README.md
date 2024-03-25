@@ -27,3 +27,9 @@ ARIMA w/o update            | ARIMA with updated
 LSTM             
 :-------------------------:
 ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/LSTM.png) 
+
+Negative sample test            | Positive sample test
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/Machine_Learning/blob/main/IM-0119-0001.jpeg)|  ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/person2_bacteria_3.jpeg)
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/Machine_Learning/blob/main/RN.png)|  ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/RP.png)
