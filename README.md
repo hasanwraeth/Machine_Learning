@@ -20,7 +20,7 @@ ARIMA case prediction            | Simulation of Typhoid incidence
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/ARIMA_pred.png)|  ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/typhi.png)
 
-ARIMA w/o update            | ARIMA with updated
+ARIMA w/o update            | ARIMA with updated data
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/ARIMAwoup.png)|  ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/ARIMAup.png)
 
