@@ -33,5 +33,5 @@ LSTM
 Negative sample test            | Positive sample test
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/IM-0119-0001.jpeg)  |  ![](https://github.com/hasanwraeth/Machine_Learning/blob/main/person53_bacteria_253.jpeg)
-![](https://github.com/hasanwraeth/Machine_Learning/blob/main/RN.png)  |  <img src="https://github.com/hasanwraeth/Machine_Learning/blob/main/RP1.png" width="975">
+![](https://github.com/hasanwraeth/Machine_Learning/blob/main/RN.png)  |  <img src="https://github.com/hasanwraeth/Machine_Learning/blob/main/RP1.png" width="675">
 
